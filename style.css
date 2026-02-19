@@ -1,72 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-    <meta charset="UTF-8">
-    <title>Around The World Through Food!!</title>
-    <website html/><link rel="stylesheet" href="./style.css">
-
-  </head>
-    
-  <body>
-  <h1>The Journey Of My Taste Bud!</h1>
-
-  <h2> My Love Food </h2>
-
-  <p1>I have journied through different parts of the world through my <strong><em>stomach,</em></strong> <br> exploring the differnt continents of the world.
-    <br>
-  </p1>
-
-  <h3>
-    <button> Why I Love Food</button> 
-     </h3>
-
-  <img src="https://media.istockphoto.com/id/1292469391/photo/assorted-indian-foods-chicken-masala-paneer-tikka-mutton-kola-and-washington-pasta-on-wooden.jpg?s=1024x1024&w=is&k=20&c=BcTesFneHqSRZCdFexGI_8cQVoyNp1mFecD6UiwOATo=" alt=" The wonders of Indian cuisine" width="230">
-
-  <ul class="why-i-love-food">
-
-    <li>embracing the cultural differnces</li>
-    <li>the marriage of spices</li>
-    <li>the stories behind each reciepe</li>
-    <li>The memories created while consuming these cuisines and much more. </li>
-    <br></ul>
-
-    <h4 id="kebab-heading">Kebab</h4>
-    <img src="https://media.istockphoto.com/id/1977423973/photo/arabic-meat-kabab-with-saffron-onion-tomato-pita-bread-lemon-slice-and-salad-served-in-dish.jpg?s=1024x1024&w=is&k=20&c=1QlAbfXttzG_hngdY1-Fm4dt9GAie_qiPRdWbz_7rI8=" alt="Turkish kebab" width="205">
-    <p2 id="kebab">
-
-      Kebab is not a single dish but a <strong><em>family of grilled meat dishes</em></strong> that originated in the Middle East and evolved through <strong><em>]Persian, Arab, and Turkish cultures over centuries.</em></strong>
-
-    </p2>
-
-    <h5>Jollof Rice</h5>
-
-    <img src="https://kikifoodies.com/wp-content/uploads/2024/10/ET5B0503-2.jpg" alt="peri peri jollof" width="205">
-
-    <p3>
-
-      Jollof rice is a beloved one-pot rice dish from West Africa, known for its rich tomato base, bold spices, and vibrant red color. It’s a centerpiece at parties, weddings, and Sunday dinners across the region.
-
-      <h6> Simple Nigerian-Style Method</h6>
-      
-      <a href="https://www.youtube.com/results?search_query=kikis+foodie+peri+peri+jollof"
-         target="_blank"> Link to YouTube For a Step by Step guide</a>
-      <ol>
-
-        <li>Blend tomatoes, red bell peppers, onion, and scotch bonnet.</li>
-
-        <li>Fry down the blend in oil with tomato paste until thick and reduced.</li>
-
-        <li>Season with thyme, curry powder, bay leaves, salt, and stock.</li>
-
-        <li>Add washed rice, stir, cover tightly, and cook on low heat.</li>
-
-        <li>Let it steam until tender—avoid stirring too much to get that smoky “party jollof” flavor.</li>
-      </ol>
-        
-      </p3>
-    <script  src="./script.js"></script>
-
-  </body>
+body
+{
+  font-family: system-ui;
+  background:  pink;
+  color: brown;
+  text-align: center;}
   
-</html>
+  
+  p{color: green;
+  background-color: yellow;}
+  
+
+h2{
+  color: purple;}
+
+h3{
+  button{
+    background-color: violet;
+  color: brown;
+  border: none;
+  height: 35px;
+  width: 120px;
+  border-radius: 4px;}
+  h4{
+    color: brown;}
+  }
+
+h5{
+  color: white;
+  }
+  
+
+h6{
+  color: green;}
+  
+  
+
+    font-size:100%;
+#kebab-heading{
+  color:green;}
+#kebab{
+  color: green;
+  background-color: orange;
+}
+.why-i-love-food{
+  background-color: violet;
+}
